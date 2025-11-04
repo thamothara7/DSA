@@ -1,0 +1,11 @@
+{
+  "java.configuration.checkProjectSettingsExclusions": false,
+  "java.format.enabled": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 4,
+  "code-runner.executorMap": {
+    "java": "cd $dir && javac $fileName && java $fileNameWithoutExt"
+  },
+  "code-runner.clearPreviousOutput": true
+}
